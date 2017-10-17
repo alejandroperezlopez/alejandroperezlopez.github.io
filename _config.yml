@@ -1,8 +1,8 @@
 # Site Info
 title: Entre ceros y unos
-tagline: 'Entre ceros y unos || Pequeñas píldoras de programación y algo más'
+tagline: 'Entre ceros y unos || Tecnología y viajes'
 description: 'Entre ceros y unos es el blog personal de Alex Pérez, un gallego que trabaja programando y disfruta viajando'
-keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar'
+keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar,fotografía,photo,photography'
 baseurl: ''
 url: 'http://www.alejandroperezlopez.com'
 logo: '/public/logo.png'
@@ -37,9 +37,9 @@ author:
 nav:
   Home:           
     - '/'
-    - { Categories: '/categories/' }
+    - { Categorías: '/categories/' }
     - { Tags: '/tags/' }
-  About:          
+  Sobre mí:          
     - '/about/'
 
 # Where are tags and categories displayed

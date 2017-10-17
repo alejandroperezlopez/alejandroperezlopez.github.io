@@ -1,30 +1,14 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hola! Mi nombre es Alejandro (aunque todo el mundo me llama Alex), bienvenido a mi blog.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Antes de nada darte las gracias por haber llegado hasta aquí, en este mi humilde blog encontrarás pequeñas recetas que me han sido de utilidad en mi trabajo diario, ya sea de programación o de tecnología en general. 
 
-There are currently two themes built on Poole:
+Además de eso, intentaré hablar sobre mis viajes, que no son muchos, pero se planifican con mucho cariño. Contaré lo que salió bien y lo que no, porque en un viaje no todo sale como uno esperaba ¿no? Me encanta la fotografía e intento practicar esta afición lo máximo posible, en los relatos de viajes intentaré utilizar las imágenes como medio de expresión, ya que como dicen, _una imagen vale más que mil palabras_ ¿no?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/alejandroperezl/36783666075/in/dateposted/" title="Tardes de eclipse."><img src="https://farm5.staticflickr.com/4428/36783666075_c68d4f8555_c.jpg" width="800" height="600" alt="Tardes de eclipse."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
