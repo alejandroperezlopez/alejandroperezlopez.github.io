@@ -1,0 +1,52 @@
+# Site Info
+title: Entre ceros y unos
+tagline: 'Entre ceros y unos || Apuntes breves sobre tecnología'
+description: ''
+keywords: ''
+baseurl: ""
+url: http://alejandroperezlopez.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/page:num'
+permalink: pretty
+
+# About/contact
+author:
+  name: '@alexperezl'
+  description: Software Engineer como trabajo, como hobby hago fotos
+  gravatar: 18faac89ab3ca2c4474710bc232dcca1 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/alejandroperezl
+    github:    https://github.com/alejandroperezlopez
+    instagram: https://www.instagram.com/alexperezl
+    flickr:    https://www.flickr.com/photos/alejandroperezl
+    twitter:   https://twitter.com/alexperezl
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+    - { Categories: '/categories/' }
+    - { Tags: '/tags/' }
+  About:          
+    - '/about/'
+
+# Where are tags and categories displayed
+tag_page: '/tags/'
+category_page: '/categories/'
+
+# Puglins
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: '' # leave blank if you don't want disqus
+
