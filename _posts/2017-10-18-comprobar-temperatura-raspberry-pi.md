@@ -7,6 +7,8 @@ tags: [raspberry pi, temperatura, raspbian]
 
 En este pequeño tutorial veremos cómo medir la temperatura de funcionamiento de una Raspberry Pi, tanto de su CPU como de su GPU, siento esta actualizada en tiempo real hasta que cerremos el script.
 
+<!-- more -->
+
 ## Creando nuestro script
 
 Crea un fichero con nombre _temp.sh_ y copia en su interior el contenido de este script:
