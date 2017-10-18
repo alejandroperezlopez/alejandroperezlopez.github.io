@@ -2,7 +2,7 @@
 layout: post
 title: Comprobar temperatura CPU / GPU Raspberry Pi
 category: tech
-tags: [raspberry, raspberry pi, temperatura, raspbian]
+tags: [raspberry pi, temperatura, raspbian]
 ---
 
 En este pequeño tutorial veremos cómo medir la temperatura de funcionamiento de una Raspberry Pi, tanto de su CPU como de su GPU, siento esta actualizada en tiempo real hasta que cerremos el script.

@@ -1,6 +1,6 @@
 # Site Info
 title: Entre ceros y unos
-tagline: 'Entre ceros y unos || Tecnología y viajes'
+tagline: 'Entre ceros y unos || Tecnología y algo más'
 description: 'Entre ceros y unos es el blog personal de Alex Pérez, un gallego que trabaja programando y disfruta viajando'
 keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar,fotografía,photo,photography'
 baseurl: ''
@@ -48,5 +48,5 @@ category_page: '/categories/'
 
 # Puglins
 google_analytics_token: 'UA-108250834-1' # leave blank if you don't want google analytics
-disqus_short_name: '' # leave blank if you don't want disqus
+disqus_short_name:  # leave blank if you don't want disqus
 
