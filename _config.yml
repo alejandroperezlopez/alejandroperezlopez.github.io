@@ -4,13 +4,15 @@ tagline: 'Entre ceros y unos || Tecnología y algo más'
 description: 'Entre ceros y unos es el blog personal de Alex Pérez, un gallego que trabaja programando y disfruta viajando'
 keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar,fotografía,photo,photography'
 baseurl: ''
-url: 'http://www.alejandroperezlopez.com'
+url: 'http://alejandroperezlopez.com'
 logo: '/public/logo.png'
+lang: 'es_ES'
 
 # Site configurations
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 markdown: kramdown
 kramdown:
   input: GFM
@@ -24,7 +26,7 @@ permalink: pretty
 
 # About/contact
 author:
-  name: '@alexperezl'
+  name: 'Alex Pérez'
   description: Software Engineer como trabajo, mi hobby es hacer fotos
   gravatar: 18faac89ab3ca2c4474710bc232dcca1 # md5 hash of your email address
   contact:
