@@ -9,6 +9,8 @@ tags: [personal, fotografía, photography, aficiones]
 
 Tal y como anunciaba en la cabecera del blog, en este pequeño espacio hablaré de _Tecnología y algo más_ y en esta ocasión ese _algo más_ será hablar de mis aficiones y una de las más importantes es la fotografía.
 
+<!-- more -->
+
 El que me conozca sabrá que me gusta la fotografía, no la practico tanto como debiera pero intento siempre que puedo llevar la cámara encima. 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/36478314322/in/dateposted/" title="Horseshoe Bend"><img src="https://farm5.staticflickr.com/4398/36478314322_906ef75c26_c.jpg" width="800" height="533" alt="Horseshoe Bend"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
