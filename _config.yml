@@ -6,7 +6,11 @@ keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,tr
 baseurl: ''
 url: 'http://alejandroperezlopez.com'
 logo: '/public/logo.png'
+
+# SEO
 lang: 'es_ES'
+twitter:
+  username: alexperezl
 
 # Site configurations
 gems:
@@ -49,7 +53,7 @@ nav:
 tag_page: '/tags/'
 category_page: '/categories/'
 
-# Puglins
+# Plugins
 google_analytics_token: 'UA-108250834-1' # leave blank if you don't want google analytics
 disqus_short_name:  # leave blank if you don't want disqus
 
