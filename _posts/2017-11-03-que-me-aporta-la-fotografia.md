@@ -42,7 +42,7 @@ Esto me ha llevado incluso a perder fotografías, piensas que ya has copiado en 
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/15435810247/in/dateposted/" title="Sunset in the outer harbor // Atardecer en el puerto exterior"><img src="https://farm6.staticflickr.com/5610/15435810247_c043286a6c_c.jpg" width="800" height="485" alt="Sunset in the outer harbor // Atardecer en el puerto exterior"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-__Atarceder desde el puerto de Cariño (Ferrol)__
+_Atarceder desde el puerto de Cariño (Ferrol)_
 
 Es algo que __tengo que cambiar__ , pensando en los propósitos del próximo año 2018, debo ser más cuidadoso con las fotografías, copiarlas y hacer los consecuentes backups.
 
