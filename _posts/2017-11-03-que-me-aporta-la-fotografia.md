@@ -18,7 +18,7 @@ _Fotografía tomada cerca de la ciudad de Page, Arizona (EEUU)_
 
 ## ¿Qué me aporta la fotografía?
 
-La fotografía como cualquier otro medio de expresión artística busca transmitir lo que uno percibe en la forma la que uno lo percibe. Es decir, dos personas pueden hacer una foto al mismo objeto y _ser dos fotos totalmente diferentes_. 
+La fotografía como cualquier otro medio de expresión artística busca transmitir lo que uno percibe en la forma la que uno lo percibe. Es decir, dos personas pueden hacer una foto al mismo objeto y __ser dos fotos totalmente diferentes__. 
 
 La fotografía te permite expresar algo aunque sea de un elemento cotidiano o muy sencillo, de una forma única y personal.
 
