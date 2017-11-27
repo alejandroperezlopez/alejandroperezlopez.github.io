@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% if page.image %}
+<header class="masthead" style="background-image: url('{{ page.image }}')">
 {% else %}
 <header class="masthead">
 {% endif %}
@@ -17,9 +17,33 @@ layout: default
           {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
-          <span class="meta">Posted by
-            <a href="#">Start Bootstrap</a>
-            on {{ page.date | date: '%B %d, %Y' }}</span>
+          <span class="meta">Escrito por
+              {% if post.author %}
+                {{ post.author }}
+              {% else %}
+                {{ site.author }}
+              {% endif %}
+              el
+              {% assign m = page.date | date: "%-m" %}
+              de
+              {{ page.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Enero
+                {% when '2' %}Febrero
+                {% when '3' %}Marzo
+                {% when '4' %}Abril
+                {% when '5' %}Mayo
+                {% when '6' %}Junio
+                {% when '7' %}Julio
+                {% when '8' %}Agosto
+                {% when '9' %}Septiembre
+                {% when '10' %}Octubre
+                {% when '11' %}Noviembre
+                {% when '12' %}Diciembre
+              {% endcase %}
+              de
+              {{ page.date | date: "%Y" }}
+            </span>
         </div>
       </div>
     </div>
@@ -36,7 +60,7 @@ layout: default
 
       {% if site.disqus_short_name %}
         <div class="comments">
-          <h2>Comments</h2>
+          <h2>Comentarios</h2>
           <div id="disqus_thread"></div>
           <script>
         var disqus_config = function () {
@@ -57,10 +81,10 @@ layout: default
       <div class="clearfix">
 
         {% if page.previous.url %}
-        <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> Post</span></a>
+        <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Ver<span class="d-none d-md-inline"> Anterior</span></a>
         {% endif %}
         {% if page.next.url %}
-        <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> Post</span> &rarr;</a>
+        <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Ver<span class="d-none d-md-inline"> Siguiente</span> &rarr;</a>
         {% endif %}
 
       </div>

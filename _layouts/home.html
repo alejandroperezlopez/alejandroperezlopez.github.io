@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- Page Header -->
-{% if page.background %}
-  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+{% if page.image %}
+  <header class="masthead" style="background-image: url('{{ page.image }}')">
   {% else %}
     <header class="masthead">
     {% endif %}
@@ -41,16 +41,34 @@ layout: default
                 <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
               {% endif %}
             </a>
-            <p class="post-meta">Posted by
+            <p class="post-meta">Escrito por
               {% if post.author %}
                 {{ post.author }}
               {% else %}
                 {{ site.author }}
               {% endif %}
-              on
-              {{ post.date | date: '%B %d, %Y' }}</p>
+              el
+              {% assign m = post.date | date: "%-m" %}
+              de
+              {{ post.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Enero
+                {% when '2' %}Febrero
+                {% when '3' %}Marzo
+                {% when '4' %}Abril
+                {% when '5' %}Mayo
+                {% when '6' %}Junio
+                {% when '7' %}Julio
+                {% when '8' %}Agosto
+                {% when '9' %}Septiembre
+                {% when '10' %}Octubre
+                {% when '11' %}Noviembre
+                {% when '12' %}Diciembre
+              {% endcase %}
+              de
+              {{ post.date | date: "%Y" }}
+            </p>
           </article>
-
           <hr>
 
         {% endfor %}
