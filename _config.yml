@@ -1,11 +1,10 @@
 # Site Info
 title: Entre ceros y unos
-tagline: 'Entre ceros y unos || Tecnología y algo más'
 description: 'Entre ceros y unos es el blog personal de Alex Pérez, un gallego que trabaja programando y disfruta viajando'
 keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar,fotografía,photo,photography'
 baseurl: ''
 url: 'http://alejandroperezlopez.com'
-logo: '/public/logo.png'
+logo: '/assets/img/logo.png'
 repository: alejandroperezlopez/alejandroperezlopez.github.io
 
 # SEO
@@ -24,39 +23,28 @@ kramdown:
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
-  sass_dir: _scss    
+  sass_dir: _sass    
 paginate: 5
 paginate_path: '/page:num'
 permalink: pretty
 
 # About/contact
-author:
-  name: 'Alex Pérez'
-  description: Software Engineer como trabajo, mi hobby es hacer fotos
-  gravatar: 18faac89ab3ca2c4474710bc232dcca1 # md5 hash of your email address
-  contact:
-    linkedin:  https://www.linkedin.com/in/alejandroperezl
-    github:    https://github.com/alejandroperezlopez
-    instagram: https://www.instagram.com/alexperezl
-    flickr:    https://www.flickr.com/photos/alejandroperezl
-    twitter:   https://twitter.com/alexperezl
+author: Alex Pérez
+twitter_username: alexperezl
+github_username: alejandroperezlopez
+instagram_username: alexperezl
 
-# Navigation (2nd level links supported)
-nav:
-  Home:           
-    - '/'
-    - { Categorías: '/categories/' }
-    - { Tags: '/tags/' }
-  Sobre mí:          
-    - '/about/'
-
-# Where are tags and categories displayed
-tag_page: '/tags/'
-category_page: '/categories/'
+  #name: 'Alex Pérez'
+  #description: Software Engineer como trabajo, mi hobby es hacer fotos
+  #gravatar: 18faac89ab3ca2c4474710bc232dcca1 # md5 hash of your email address
+  #contact:
+    #linkedin:  https://www.linkedin.com/in/alejandroperezl
+    #github:    https://github.com/alejandroperezlopez
+    #instagram: https://www.instagram.com/alexperezl
+    #flickr:    https://www.flickr.com/photos/alejandroperezl
+    #twitter:   https://twitter.com/alexperezl
 
 # Plugins
 google_analytics_token: 'UA-108250834-1' # leave blank if you don't want google analytics
 disqus_short_name:  'entreunosyceros' # leave blank if you don't want disqus
-staticman:
-  branch: master
 
