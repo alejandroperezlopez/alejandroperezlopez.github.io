@@ -13,7 +13,8 @@ Tal y como anunciaba en la cabecera del blog, en este pequeño espacio hablaré 
 
 El que me conozca sabrá que me gusta la fotografía, no la practico tanto como debiera pero intento siempre que puedo llevar la cámara encima. 
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/36478314322/in/dateposted/" title="Horseshoe Bend"><img src="https://farm5.staticflickr.com/4398/36478314322_906ef75c26_c.jpg" width="800" height="533" alt="Horseshoe Bend"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm5.staticflickr.com/4398/36478314322_906ef75c26_c.jpg" alt="Horseshoe Bend" class="img-fluid">
+
 _Fotografía tomada cerca de la ciudad de Page, Arizona (EEUU)_
 
 ## ¿Qué me aporta la fotografía?
@@ -26,11 +27,11 @@ Tengo la suerte de pertenecer a la [Asociación Fotográfica Grupo Bazán](http:
 
 Cada poco tiempo, hacemos salidas fotográficas que nos permiten conocer sitios nuevos y que no tienen nada que envidiar a los que podemos encontrar más lejos (o incluso fuera de España).
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/30726898911/in/dateposted/" title="Freedom / Libertad"><img src="https://farm6.staticflickr.com/5619/30726898911_c040fa6eb6_c.jpg" width="534" height="800" alt="Freedom / Libertad"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm6.staticflickr.com/5619/30726898911_c040fa6eb6_c.jpg" class="img-fluid" alt="Freedom / Libertad">
 
 _Paseo marítimo de la ría de Ortigueira_
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/30698218152/in/dateposted/" title="Just a little river (II) / Un pequeño río (II)"><img src="https://farm6.staticflickr.com/5524/30698218152_5cd7270313_c.jpg" width="800" height="534" alt="Just a little river (II) / Un pequeño río (II)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm6.staticflickr.com/5524/30698218152_5cd7270313_c.jpg" alt="Just a little river (II) / Un pequeño río (II)" class="img-fluid">
 
 _Pequeño río en el parque natural das fragas do Eume_
 
@@ -40,7 +41,8 @@ Tengo un montón de fotos que nunca he subido a internet, ni siquiera las tengo 
 
 Esto me ha llevado incluso a perder fotografías, piensas que ya has copiado en tu ordenador ciertas fotos, formateas la tarjeta y _bye bye_. Y no es una suposición, soy consciente de haber perdido el original de esta foto:
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/alejandroperezl/15435810247/in/dateposted/" title="Sunset in the outer harbor // Atardecer en el puerto exterior"><img src="https://farm6.staticflickr.com/5610/15435810247_c043286a6c_c.jpg" width="800" height="485" alt="Sunset in the outer harbor // Atardecer en el puerto exterior"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<img src="https://farm6.staticflickr.com/5610/15435810247_c043286a6c_c.jpg" alt="Sunset in the outer harbor // Atardecer en el puerto exterior" class="img-fluid">
 
 _Atarceder desde el puerto de Cariño (Ferrol)_
 

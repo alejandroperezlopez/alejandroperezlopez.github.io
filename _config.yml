@@ -44,6 +44,10 @@ instagram_username: alexperezl
     #flickr:    https://www.flickr.com/photos/alejandroperezl
     #twitter:   https://twitter.com/alexperezl
 
+# Where are tags and categories displayed
+tag_page: '/tags/'
+category_page: '/categories/'
+
 # Plugins
 google_analytics_token: 'UA-108250834-1' # leave blank if you don't want google analytics
 disqus_short_name:  'entreunosyceros' # leave blank if you don't want disqus

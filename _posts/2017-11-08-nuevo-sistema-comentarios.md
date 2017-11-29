@@ -14,7 +14,7 @@ Disqus permite autenticarse con vuestra cuenta de Facebook, Google, Twitter etc.
 
 Para poder comentar sin tener que registraros simplemente tenéis que activar la opción de __"Prefiero comentar como invitado"__ que aparece en la foto y os aparecerá una caja para introducir vuestro nombre y correo electrónico.
 
-![Nuevo sistema de comentarios con Disqus](https://farm5.staticflickr.com/4583/37554578844_41eba67cfa_b.jpg)
+<img src="https://farm5.staticflickr.com/4583/37554578844_41eba67cfa_b.jpg" alt="Nuevo sistema de comentarios con Disqus" class="img-fluid">
 
 Una cosa menos :)
 
