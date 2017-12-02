@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sobre mí
+image: https://farm5.staticflickr.com/4540/38709765992_a3d4e678db_o.jpg
 ---
 
 Hola! Mi nombre es Alejandro (aunque todo el mundo me llama Alex), bienvenido a mi blog.
