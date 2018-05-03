@@ -3,7 +3,7 @@ title: Entre ceros y unos
 description: 'Entre ceros y unos es el blog personal de Alex Pérez, un gallego que trabaja programando y disfruta viajando'
 keywords: 'programación,raspberry,raspberrypi,iot,linux,programming,software,travel,viajes,viajar,fotografía,photo,photography'
 baseurl: ''
-url: 'http://alejandroperezlopez.com'
+url: 'https://alejandroperezlopez.com'
 logo: '/assets/img/logo.png'
 repository: alejandroperezlopez/alejandroperezlopez.github.io
 
