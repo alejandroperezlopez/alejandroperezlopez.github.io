@@ -345,7 +345,7 @@ Como decía antes, he estado minando como 3 meses y he obtenido apenas $5 de ben
 
 Habrá que esperar a cómo evolucionan los mercados.
 
-Espero que os haya gustado este post (también conocido como el wall-of-text), por favor dejarme en comentarios vuestros comentarios y si tenéis experiencia con cualquier otro tipo de minado o con otros dispositivos.
+Espero que os haya gustado este post (también conocido como el wall-of-text), por favor dejadme en comentarios vuestras experiencias y si tenéis experiencia con cualquier otro tipo de minado o con otros dispositivos me encantaría escucharla vuestro relato.
 
 
 
