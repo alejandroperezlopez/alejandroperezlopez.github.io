@@ -6,9 +6,9 @@ category: tech
 tags: [comentarios, comments, blog, mejoras, disqus]
 ---
 
-Una de las cosas que tenía pendientes en la configuración del blog era activar el sistema de comentarios, llevo varios días peleándome con [Staticman](https://staticman.net/), y pienso activarlo en el futuro cuando rediseñe la plantilla entera del blog usando [Bootstrap](http://getbootstrap.com/) (por trastear y aprender) pero para salir del paso he activado la solución más popular para sistemas Jekyll como este.
+Una de las cosas que tenía pendientes en la configuración del blog era activar el sistema de comentarios, llevo varios días peleándome con [Staticman](https://staticman.net/){:target="_blank"}, y pienso activarlo en el futuro cuando rediseñe la plantilla entera del blog usando [Bootstrap](http://getbootstrap.com/){:target="_blank"} (por trastear y aprender) pero para salir del paso he activado la solución más popular para sistemas Jekyll como este.
 
-[Disqus](https://disqus.com/) es una plataforma SaaS de gestión de comentarios para blogs y coincide que el framework de blogging que estoy usando ya lo soporta por defecto, así que a partir de ahora podréis comentar en los posts.
+[Disqus](https://disqus.com/){:target="_blank"} es una plataforma SaaS de gestión de comentarios para blogs y coincide que el framework de blogging que estoy usando ya lo soporta por defecto, así que a partir de ahora podréis comentar en los posts.
 
 Disqus permite autenticarse con vuestra cuenta de Facebook, Google, Twitter etc..pero también he activado la opción de comentarios anónimos, es decir, __sin registrarse__, ya que creo que es más cómodo.
 

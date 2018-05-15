@@ -8,7 +8,7 @@ tags: [viaje, polonia, travel, gdansk, Gdańsk]
 ---
 
 Partimos de [Varsovia]({{ site.baseurl }}{% post_url 2017-11-22-nuestro-viaje-a-polonia-parte-i %}
-) una fría mañana de Agosto (sí, en Polonia en Agosto hace fresquete de noche aunque de día haga bastante calor) muy temprano ya que nuestro tren partía a las 06:24 de la mañana. Este primer viaje nos llevaría desde la ciudad de Varsovia hasta el extremo norte del país, [Gdansk](https://es.wikipedia.org/wiki/Gdansk) en un viaje de 342km con una duración de 2h 38min como podéis ver en el siguiente mapa.
+) una fría mañana de Agosto (sí, en Polonia en Agosto hace fresquete de noche aunque de día haga bastante calor) muy temprano ya que nuestro tren partía a las 06:24 de la mañana. Este primer viaje nos llevaría desde la ciudad de Varsovia hasta el extremo norte del país, [Gdansk](https://es.wikipedia.org/wiki/Gdansk){:target="_blank"} en un viaje de 342km con una duración de 2h 38min como podéis ver en el siguiente mapa.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1221184.3781729224!2d18.7550686302143!3d53.287282615790836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x471ecc669a869f01%3A0x72f0be2a88ead3fc!2sVarsovia%2C+Polonia!3m2!1d52.2296756!2d21.012228699999998!4m5!1s0x46fd731c14d4fa6f%3A0x9bb9fbf163b7be8d!2sGda%C5%84sk%2C+Polonia!3m2!1d54.3520252!2d18.6466384!5e0!3m2!1ses!2ses!4v1512302663938" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -17,7 +17,7 @@ Seleccionamos un tren express (que nada tiene que envidiar a nuestros AVE) en qu
 <img src="https://c1.staticflickr.com/5/4544/38804152061_ee426f2f78_b.jpg" alt="Express Intercity Premium Varsovia - Gdansk" class="img-fluid">
 _Express Intercity Premium Varsovia - Gdansk_
 
-Una cosa que nos llamó la atención durante la planificación del viaje a Gdansk era la ~~nula~~ escasa cantidad de alojamiento disponible (luego descubriríamos que era debido a que nuestro viaje coincidía con la celebración de la ["Feria de Santo Domingo"](http://es.polandforall.com/gdansk-calendario-cultural.html)). En este caso nos decantamos por un precioso (y nuevísimo) hotel boutique, el [Medusa Gdansk](https://www.tripadvisor.es/Hotel_Review-g274725-d10288978-Reviews-Medusa_Boutique_Hotel-Gdansk_Pomerania_Province_Northern_Poland.html) que para ser en Polonia nos costó una pasta (creo que sobre 100€ la noche) pero que estaba tan bien situado que compensaba ese "sobreprecio". 
+Una cosa que nos llamó la atención durante la planificación del viaje a Gdansk era la ~~nula~~ escasa cantidad de alojamiento disponible (luego descubriríamos que era debido a que nuestro viaje coincidía con la celebración de la ["Feria de Santo Domingo"](http://es.polandforall.com/gdansk-calendario-cultural.html)){:target="_blank"}. En este caso nos decantamos por un precioso (y nuevísimo) hotel boutique, el [Medusa Gdansk](https://www.tripadvisor.es/Hotel_Review-g274725-d10288978-Reviews-Medusa_Boutique_Hotel-Gdansk_Pomerania_Province_Northern_Poland.html){:target="_blank"} que para ser en Polonia nos costó una pasta (creo que sobre 100€ la noche) pero que estaba tan bien situado que compensaba ese "sobreprecio". 
 
 Después de un rápido check-in en el hotel y de comentar con los empleados del hotel los sitios más interesantes para visitar de la ciudad, nos ponemos en marcha. Los puestos de comida y artesanía llegaban prácticamente hasta la puerta de nuestro hotel por lo que la primera parada no tardó mucho en llegar.
 
@@ -46,7 +46,7 @@ _Swietopelk II, Duque de Pomerania (Gdansk)_
 <img src="https://farm5.staticflickr.com/4533/38010015134_7bab4e7b0d_b.jpg" alt="Reloj astronómico del Ayuntamiento de Gdansk" class="img-fluid">
 _Reloj astronómico del Ayuntamiento de Gdansk_
 
-Que estamos ante una ciudad principalmente turística no nos cabía duda desde que nos enteramos que en la ciudad había un [Hard Rock Café](http://www.hardrock.com/), aunque soy bastante fan de estos establecimientos decidimos continuar caminando por el precioso casco histórico de Gdansk.
+Que estamos ante una ciudad principalmente turística no nos cabía duda desde que nos enteramos que en la ciudad había un [Hard Rock Café](http://www.hardrock.com/){:target="_blank"}, aunque soy bastante fan de estos establecimientos decidimos continuar caminando por el precioso casco histórico de Gdansk.
 
 <img src="https://farm5.staticflickr.com/4559/24854286588_9aa11835bd_b.jpg" alt="Hard Rock Café en Gdansk" class="img-fluid">
 _Hard Rock Café en Gdansk_

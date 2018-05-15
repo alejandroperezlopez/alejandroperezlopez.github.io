@@ -23,7 +23,7 @@ La fotografía como cualquier otro medio de expresión artística busca transmit
 
 La fotografía te permite expresar algo aunque sea de un elemento cotidiano o muy sencillo, de una forma única y personal.
 
-Tengo la suerte de pertenecer a la [Asociación Fotográfica Grupo Bazán](http://fotografiagrupobazan.blogspot.com.es/) lo cual me ha permitido mejorar mis conocimientos sobre técnica fotográfica y además conocer a un montón de buenas personas que comparten mi afición.
+Tengo la suerte de pertenecer a la [Asociación Fotográfica Grupo Bazán](http://fotografiagrupobazan.blogspot.com.es/){:target="_blank"} lo cual me ha permitido mejorar mis conocimientos sobre técnica fotográfica y además conocer a un montón de buenas personas que comparten mi afición.
 
 Cada poco tiempo, hacemos salidas fotográficas que nos permiten conocer sitios nuevos y que no tienen nada que envidiar a los que podemos encontrar más lejos (o incluso fuera de España).
 
@@ -59,9 +59,9 @@ Actualmente mi equipo fotográfico se compone de:
     + Sony 16-50mm 3.6-5.6 OSS
     + Sony 55-210mm 4.5-6.3 OSS
     
-En mi cuenta de [Flickr](https://www.flickr.com/photos/alejandroperezl) podéis ver alguna de mis fotografías.
+En mi cuenta de [Flickr](https://www.flickr.com/photos/alejandroperezl){:target="_blank"} podéis ver alguna de mis fotografías.
 
-Continuaré con más posts de carácter [personal](http://alejandroperezlopez.com/categories/#personal), espero que os gusten. Como siempre, comentarios bienvenidos en Twitter donde me podéis encontrar como [@alexperezl](https://twitter.com/alexperezl)
+Continuaré con más posts de carácter [personal](http://alejandroperezlopez.com/categories/#personal){:target="_blank"}, espero que os gusten. Como siempre, comentarios bienvenidos en Twitter donde me podéis encontrar como [@alexperezl](https://twitter.com/alexperezl){:target="_blank"}
 
 
 

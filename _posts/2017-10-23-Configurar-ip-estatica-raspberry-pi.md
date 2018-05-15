@@ -35,4 +35,4 @@ En la sección _domain_name_servers_ configuraremos las IPs de los dns de Google
     static domain_name_servers=8.8.8.8 8.8.4.4
 ```
 
-Podéis comentarme cualquier duda o problema que tengáis con esta configuración en mi cuenta de Twitter [@alexperezl](https://twitter.com/alexperezl).
+Podéis comentarme cualquier duda o problema que tengáis con esta configuración en mi cuenta de Twitter [@alexperezl](https://twitter.com/alexperezl){:target="_blank"}.

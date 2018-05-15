@@ -7,7 +7,7 @@ tags: [raspberry pi, wifi, raspbian, headless, jessie]
 
 Uno de los mayores incordios que nos hemos encontrado todos al configurar una nueva Raspberry Pi es la necesidad de conectarla a algún monitor / teclado para configurar la __conexión wifi__ aunque esa máquina esté destinada a ser headless. 
 
-Esto ya no es un problema desde Mayo de 2016, momento en el que la fundación [Raspberry](https://www.raspberrypi.org/) introdujo la posibilidad de configurar la red wifi directamente desde la SD antes del primer arranque.
+Esto ya no es un problema desde Mayo de 2016, momento en el que la fundación [Raspberry](https://www.raspberrypi.org/){:target="_blank"} introdujo la posibilidad de configurar la red wifi directamente desde la SD antes del primer arranque.
 
 <!-- more -->
 En este tutorial, veremos cómo, paso por paso.
@@ -62,7 +62,7 @@ Personalmente, suelo utilizar esta última opción ya que me parece más robusta
 
 ## Activando SSH
 
-Desde Septiembre de 2016 y, [alegando motivos de seguridad](https://www.raspberrypi.org/documentation/remote-access/ssh/), __la conexión SSH está desactivada por defecto__ en Raspbian, veamos cómo activar de nuevo esta característica antes del primer arranque:
+Desde Septiembre de 2016 y, [alegando motivos de seguridad](https://www.raspberrypi.org/documentation/remote-access/ssh/){:target="_blank"}, __la conexión SSH está desactivada por defecto__ en Raspbian, veamos cómo activar de nuevo esta característica antes del primer arranque:
 
 Únicamente debemos copiar en la carpeta _boot_ de nuestra raspberry un fichero con nombre __ssh__ (sin extensión). Cuando arranquemos nuestra Rasberry Pi, tendremos el ssh activado. Recordad que el usuario por defecto es:
 
