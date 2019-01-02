@@ -59,7 +59,7 @@ De los 9 puntos que me había marcado como objetivos de 2018, se puede decir que
 
 Visto el ~~fracaso~~ poco éxito del 2018, voy a ser menos optimista y me voy a plantear únicamente 5 objetivos. Todos son factibles y dependerá de mi organización y fuerza de voluntar el hecho de conseguirlos o no.
 
-- Repito mi objetivo de formarme más. Y no únicamente en cosas relativas a mi profesión, en este año 2019 en mi familia se va a iniciar un proyecto empresarial (sobre el cual estamos muy ilusionados) y tengo que aprender un montón de cosas para poder aportar mi granito de arena. Por ejemplo, aprender a diseñar con Photoshop / Illustrator. 
+- Repito mi objetivo de formarme más. Y no únicamente en cosas relativas a mi profesión, en este año 2019 en mi familia vamos a iniciar un [proyecto empresarial](http://comersanomola.com){:target="_blank"} y aparte de estar super ilusionados hemos tenido que aprender un montón de cosas en el último año (y las que nos quedan). Por ejemplo, en mi caso en la lista de pendientes estaría el marketing, diseño gráfico, amplicar conocimientos en cuanto a administración de servidores etc..
 
 - Hacer algo de deporte. Llevo más de un año con problemas de espalda y una de las cosas que me puede ayudar es practicar algo de natación. Debo conseguir organizarme mejor para poder dedicarme algo de tiempo.
 
