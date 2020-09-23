@@ -13,11 +13,12 @@ twitter:
   username: alexperezl
 
 # Site configurations
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
 excerpt_separator: "<!-- more -->"

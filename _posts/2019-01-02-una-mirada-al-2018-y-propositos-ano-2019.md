@@ -61,7 +61,7 @@ Visto el ~~fracaso~~ poco éxito del 2018, voy a ser menos optimista y me voy a 
 
 - Repito mi objetivo de formarme más. Y no únicamente en cosas relativas a mi profesión, en este año 2019 en mi familia vamos a iniciar un [proyecto empresarial](http://comersanomola.com){:target="_blank"} y aparte de estar super ilusionados hemos tenido que aprender un montón de cosas en el último año (y las que nos quedan). Por ejemplo, en mi caso en la lista de pendientes estaría el marketing, diseño gráfico, amplicar conocimientos en cuanto a administración de servidores etc..
 
-- Hacer algo de deporte. Llevo más de un año con problemas de espalda y una de las cosas que me puede ayudar es practicar algo de natación. Debo conseguir organizarme mejor para poder dedicarme algo de tiempo.
+- Hacer algo de deporte. Llevo más de un año con problemas de espalda y una de las cosas que más me puede ayudar es practicar algo de natación. Debo conseguir organizarme mejor para poder dedicarme algo de tiempo a mí y a mi salud.
 
 - Leer ~~más~~ algo. En el día a día acumulo bastante estrés y creo que me ayudaría a sobrellevarlo de una forma más apropiada.
 
@@ -69,7 +69,7 @@ Visto el ~~fracaso~~ poco éxito del 2018, voy a ser menos optimista y me voy a 
 
 - Continuar con mi afición fotográfica. Después de un paréntensis bastante largo me encantaría continuar con ella, de hecho, he retomado mi participación en la asociación de fotográfica de la que soy miembro.
 
-Como siempre, se agradecen comentarios.
+Como siempre, se agradecen comentarios
 
 
 
