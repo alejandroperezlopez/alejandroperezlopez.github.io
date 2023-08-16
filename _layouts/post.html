@@ -5,7 +5,7 @@ layout: default
 <!-- Page Header -->
 {% if page.image_url %}
 <header class="masthead" style="background-image: url('{{ page.image_url }}')">
-{% elseif page.image %}
+{% elsif page.image %}
 <header class="masthead" style="background-image: url('{{ page.image | prepend: site.baseurl }}')"></header>
 {% else %}
 <header class="masthead">
