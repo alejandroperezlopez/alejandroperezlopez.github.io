@@ -30,7 +30,7 @@ Además de eso:
 * Esos 15 días prometidos, se convierten en semanas, luego en meses y luego en años. 
 * Las visitas que tu jefe iba a hacerte semanalmente nunca se producen
 
-**Estás solo**, para lo bueno y para lo malo, y tienes que sacarte tú mismo las castañas del fuego. Te sirve para crecer (muchas veces pasando vergüenza porque se esperan cosas de ti que ni concoes), para aprender a negociar con gente que no atiende a razones (tener mano izquierda es una soft skill muy poco valorada), te sirve para muchas cosas que te serán útiles en tu día a día, pero siempre te queda ese **síndrome del impostor** de que aunque acabas teniendo mucho más conocimientos que tus compañeros sobre tu área de trabajo, siempre tienes que demostrarlo, ¿a qué precio?
+**Estás solo**, para lo bueno y para lo malo, y tienes que sacarte tú mismo las castañas del fuego. Te sirve para crecer (muchas veces pasando vergüenza porque se esperan cosas de ti que ni conoces), para aprender a negociar con gente que no atiende a razones (tener mano izquierda es una soft skill muy poco valorada), te sirve para muchas cosas que te serán útiles en tu día a día, pero siempre te queda ese **síndrome del impostor** de que aunque acabas teniendo mucho más conocimientos que tus compañeros sobre tu área de trabajo, siempre tienes que demostrarlo, ¿a qué precio?
 
 Os lo podéis imaginar, en el momento no te quieres dar cuenta, tienes la suerte de tener unos amigos que van contigo en el coche que te escuchan, unos padres que aguantan tus llamadas llorando porque necesitas desahogar de la presión tan grande que sientes. Pero de cara a la galería, no puedes expresar nada de esto, porque tienes que dar gracias por tener un trabajo (así me educaron).
 
