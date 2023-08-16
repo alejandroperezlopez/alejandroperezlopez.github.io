@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El momento de parar
-#image: /assets/img/posts/2023-08-16-el-momento-de-parar.jpg
+image: https://alejandroperezlopez.com/assets/img/posts/2023-08-16-el-momento-de-parar.jpg
 description: Cuando lo inevitable llega, y es el momento de parar, un pequeño relato de salud mental en tecnología
 category: personal
 tags: ['2023', salud]
