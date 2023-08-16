@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qué me aporta la fotografía
-image: https://farm6.staticflickr.com/5616/30698215492_ee6e0e6bd2_k.jpg
+image_url: https://farm6.staticflickr.com/5616/30698215492_ee6e0e6bd2_k.jpg
 description: Qué me aporta la fotografia, errores que cometo y cómo voy a solucionarlos
 category: personal
 tags: [personal, fotografía, photography, aficiones]

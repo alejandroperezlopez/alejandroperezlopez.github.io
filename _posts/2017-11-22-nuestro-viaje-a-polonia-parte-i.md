@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuestro viaje a Polonia, planificación y llegada a Varsovia.
-image: https://farm5.staticflickr.com/4554/38010002094_c469a80c6f_c.jpg
+image_url: https://farm5.staticflickr.com/4554/38010002094_c469a80c6f_c.jpg
 description: Resumen de los primeros días de nuestro viaje a Polonia, visitando la ciudad de Varsovia.
 category: travel
 tags: [viaje, polonia, travel, varsovia, warszawa, warszawa]

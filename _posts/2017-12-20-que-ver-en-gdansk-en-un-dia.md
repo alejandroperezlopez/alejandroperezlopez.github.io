@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuestro viaje a Polonia, qué ver en Gdansk en 1 día
-image: https://farm5.staticflickr.com/4586/24932304938_c8be4fc1a2_o.jpg
+image_url: https://farm5.staticflickr.com/4586/24932304938_c8be4fc1a2_o.jpg
 description: Cómo llegar a Gdansk desde Varsovia y nuestro día en Gdansk, qué ver, qué comer etc
 category: travel
 tags: [viaje, polonia, travel, gdansk, Gdańsk]

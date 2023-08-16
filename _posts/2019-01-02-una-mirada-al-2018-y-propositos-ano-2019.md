@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 - Una mirada al 2018 y propósitos para el nuevo año
-image: https://farm8.staticflickr.com/7837/46516861382_db647a10a7_b.jpg
+image_url: https://farm8.staticflickr.com/7837/46516861382_db647a10a7_b.jpg
 description: Una mirada al 2018 y propósitos para el nuevo año
 category: personal
 tags: ['2019', wishes, propósitos, año nuevo, new year]

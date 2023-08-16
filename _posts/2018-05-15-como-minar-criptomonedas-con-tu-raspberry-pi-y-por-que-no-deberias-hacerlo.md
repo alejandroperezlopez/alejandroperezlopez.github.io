@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo minar criptomonedas con tu Raspberry Pi y por qué no deberías hacerlo
-image: https://c1.staticflickr.com/1/967/39870627670_a261810d15_o.jpg
+image_url: https://c1.staticflickr.com/1/967/39870627670_a261810d15_o.jpg
 description: Te enseñamos cómo minar criptomonedas con tu Raspberry Pi y veremos por qué no es rentable y deberías tomártelo como un experimento.
 category: tech
 tags: ['2018', 'criptomonedas', 'raspberry pi', 'smc', 'magi', 'magicoin', 'xmg']

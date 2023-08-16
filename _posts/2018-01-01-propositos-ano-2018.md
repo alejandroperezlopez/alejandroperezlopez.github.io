@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2018 - Propósitos de año nuevo
-image: https://farm5.staticflickr.com/4726/38552389615_e20c58f9c4_h.jpg
+image_url: https://farm5.staticflickr.com/4726/38552389615_e20c58f9c4_h.jpg
 description: Propósitos de año nuevo 2018
 category: personal
 tags: ['2018', wishes, propósitos, año nuevo, new year]

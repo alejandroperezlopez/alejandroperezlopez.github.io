@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Superluna diciembre 2017
-image: https://farm5.staticflickr.com/4525/24953017068_d6002c18dc_o.jpg
+image_url: https://farm5.staticflickr.com/4525/24953017068_d6002c18dc_o.jpg
 description: Superluna diciembre 2017
 category: personal
 tags: [moon, luna, superluna, supermoon, fotografía, photography, photo]
