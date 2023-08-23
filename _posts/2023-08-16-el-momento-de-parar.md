@@ -21,16 +21,16 @@ Supongamos que acabas tus estudios y empiezas de prácticas en un sitio, dónde,
 
 Bueno, todo Ok hasta aquí, te contratan y te dicen que necesitan que vayas a un cliente unos 15 días a arreglar un marrón, tú, como eres un corderito te lo crees.
 
-Y allá vas, tu empresa X, **te vende** a la empresa Y que a su vez **te vuelve a vender** a otra empresa con un logotipo de letras rojas. Pero ojo, esto es secreto y no puedes decirlo, osea, tienes que simular ser de la empresa Y a todos los efectos.
+Y allá vas, tu empresa *X*, **te vende** a la empresa *Y* que a su vez **te vuelve a vender** a otra empresa con un logotipo de letras rojas. Pero ojo, esto es secreto y no puedes decirlo, osea, tienes que simular ser de la empresa *Y* a todos los efectos.
 
-Y os imaginaréis que para arreglar a un marrón, no iban a mandar a un Junior (muy muy muy junior), no, te han mandado como un Senior. Pero no lo eres, primer problema.
+Y os imaginaréis que para arreglar un marrón de esa entidad, no iban a mandar a un Junior (muy muy muy junior), no, te han mandado como un Senior. Pero no lo eres, primer problema.
 
 Además de eso:
 
 * Esos 15 días prometidos, se convierten en semanas, luego en meses y luego en años. 
 * Las visitas que tu jefe iba a hacerte semanalmente nunca se producen
 
-**Estás solo**, para lo bueno y para lo malo, y tienes que sacarte tú mismo las castañas del fuego. Te sirve para crecer (muchas veces pasando vergüenza porque se esperan cosas de ti que ni conoces), para aprender a negociar con gente que no atiende a razones (tener mano izquierda es una soft skill muy poco valorada), te sirve para muchas cosas que te serán útiles en tu día a día, pero siempre te queda ese **síndrome del impostor** de que aunque acabas teniendo mucho más conocimientos que tus compañeros sobre tu área de trabajo, siempre tienes que demostrarlo, ¿a qué precio?
+**Estás solo**, para lo bueno y para lo malo, y tienes que sacarte tú mismo las castañas del fuego. Te sirve para crecer (muchas veces pasando vergüenza porque se esperan cosas de ti que ni conoces), para aprender a negociar con gente que no atiende a razones (tener mano izquierda es una soft skill muy poco valorada), te sirve para muchas cosas que te serán útiles en tu día a día (pero las aprendes de la peor forma posible), pero siempre te queda ese **síndrome del impostor** de que aunque acabas teniendo mucho más conocimientos que tus compañeros sobre tu área de trabajo, siempre tienes la sensación de tener que demostrarlo, ¿a qué precio?
 
 Os lo podéis imaginar, en el momento no te quieres dar cuenta, tienes la suerte de tener unos amigos que van contigo en el coche que te escuchan, unos padres que aguantan tus llamadas llorando porque necesitas desahogar de la presión tan grande que sientes. Pero de cara a la galería, no puedes expresar nada de esto, porque tienes que dar gracias por tener un trabajo (así me educaron).
 
@@ -44,7 +44,7 @@ No hay que tener un doctorado para imaginarse qué le ocurre al cuerpo humano cu
 * Cambios de carácter (mayormente endurecimiento)
 * Somatizaciones (problemas de piel, problemas digestivos etc).
 
-A pesar de que eran evidentes, no los detectas, todo está bien y seguramente sea culpa tuya por no saber llevarlo correctamente las condiciones en las que funciona la profesión (al final, es lo que conoces). Ese "será culpa tuya" causa un síndrome del impostor tremendo. ¿Por qué los demás lo llevan bien y yo no? ¿Qué hago mal?
+A pesar de que eran evidentes, no los detectas, todo está bien y seguramente sea culpa tuya por no saber llevarlo correctamente, serán las condiciones en las que funciona la profesión (al final, es lo que conoces). Ese "será culpa tuya" causa un síndrome del impostor tremendo. ¿Por qué los demás lo llevan bien y yo no? ¿Qué hago mal?
 
 ## El cambio
 
@@ -54,21 +54,17 @@ Trabajo en lo que me gusta y encima aprendo un montón. ¿Qué más se puede ped
 Pues como únicamente en los cuentos todo es siempre bonito, te asignan a hacer algo que **no te gusta** ni te **aporta** simplemente porque lo haces bien. Eso es lo peor de todo,
 porque por mucho que te quejas de querer salir de ahí, lo haces bien y nadie más quiere hacerlo, la combinación perfecta para que sea complicado salir de ahí.
 
-Sientes que te quedas atrás con respecto a tus compañeros ya que ellos pueden aprender cosas que tú no, y como en la mochila te has tráido tus problemas anteriores, todo se acrecenta. 
-En esa situación, ¿qué haces para no quedarte atrás? pues usar tu tiempo libre para hacer lo que otros pueden hacer en su tiempo laboral. ¿La mejor de las decisiones? **obviamente no**.
+Sientes que te quedas atrás con respecto a tus compañeros ya que ellos pueden aprender cosas que tú no, y como en la mochila te has tráido tus problemas anteriores, todo se acrecenta. En esa situación, ¿qué haces para no quedarte atrás? pues usar tu tiempo libre para hacer lo que otros pueden hacer en su tiempo laboral. ¿La mejor de las decisiones? **obviamente no**.
 
 Finalmente, después de varios años, consigues el cambio y todo parece normalizarse, pero tu mochila sigue llena. Nunca has afrontado esos problemas.
 
 ## Llega la pandemia
 
-Llega la pandemia y trastoca la vida de todo el mundo, nos vamos para casa y a todos tus problemas añades que te sientes muy solo. Y no sé si fue cosa únicamente de mi empresa pero llegué 
-a trabajar más de 12h diarias (por la mañana para hacer las cosas relativas a mi puesto) y por la tarde para atender las necesidades de nuestro cliente americano.
+Llega la pandemia y trastoca la vida de todo el mundo, nos vamos para casa y a todos tus problemas añades que te sientes muy solo. Y no sé si fue cosa únicamente de mi empresa, pero llegué a trabajar más de 12h diarias (por la mañana para hacer las cosas relativas a mi puesto como líder de equipo) y por la tarde para atender las necesidades de nuestro cliente americano.
 
-En aquel momento, lideraba un equipo y además de la parte técnica, llevaba una parte de management, 1to1s y demás, considero que (y el feedback que recibí así lo confirma) que esa parte de
-management se me daba bien (¿os acordáis que prácticamente me saqué un máster en negociación de secuestros en mi etapa anterior?), me es muy fácil ponerme en la piel de alguien para lo bueno y para lo malo.
+En aquel momento, lideraba un equipo y además de la parte técnica, llevaba una parte de management, 1to1s y demás, considero que (y el feedback que recibí así lo confirma) esa parte de management se me daba bien (¿os acordáis que prácticamente me saqué un máster en negociación de secuestros en mi etapa anterior?), me es muy fácil ponerme en la piel de alguien para lo bueno y para lo malo.
 
-Ese ritmo de trabajo me causó un estado de burnout enorme. No podía dejar el trabajo (recordad, hay que dar gracias por tener trabajo), hablé con RRHH (gracias Natalia por tus consejos si lees esto) y me llegué
-a plantear una excendencia.
+Ese ritmo de trabajo me causó un estado de burnout enorme. No podía dejar el trabajo (recordad, hay que dar gracias por tener trabajo), hablé con RRHH (gracias Natalia por tus consejos si lees esto) y me llegué a plantear una excendencia.
 
 No era tampoco el mejor momento para cambiar de empresa, y en realidad, siempre tenía la duda de si el problema era yo o el trabajo, entonces ahí seguía, con una sonrisa en la cara y la presión dentro.
 
