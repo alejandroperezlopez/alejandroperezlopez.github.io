@@ -51,7 +51,7 @@ Y entonces todas esas preguntas que te habían atormentado en el momento de para
 - Elimina (en la medida de lo posible) el foco principal de activación, es decir, aquello que te dispara las crisis. En mi caso se basó en una desconexión total y completa del trabajo acompañado de no consumir apenas nada relacionado con el mismo. Esta parte se llama **desensibilización**.
 - Busca cosas que te entretengan. Ojo, si te entretiene programar, puedes programar, pero intenta que no esté relacionado en absoluto con tu entorno laboral.
 
-Cabe resaltar, que un punto fundamental **es la periodicidad y constancia de la terapia**. He ido a terapia tanto de forma privada (de forma **muy muy frecuente**) y he tenido cita de psicología en la sanidad pública **cada cuatro meses**, no porque no necesitase más, sino en palabras de mi doctora, porque era imposible verme antes. Y aquí voy a ser claro, **no sirve de nada** que te vean cada cuatro meses. De absolutamente nada.
+Cabe resaltar, que un punto fundamental **es la periodicidad y constancia de la terapia**. He ido a terapia tanto de forma privada (de forma **muy muy frecuente**) como en la sanidad, en esta última **cada cuatro meses**, no porque no necesitase más, sino en palabras de mi doctora, porque era imposible verme antes. Y aquí voy a ser claro, **no sirve de nada** que te vean cada cuatro meses. De absolutamente nada.
 
 La terapia debe ser continuada porque los cambios emocionales (especialmente si estás bajo tratamiento) son continuos. **He tenido la suerte de que me he podido permitir** una atención privada en este sentido.
 
@@ -76,7 +76,7 @@ Pero vale la pena. Una vez aclarada la primera pregunta, la única forma de resp
 
 ## La reincorporación
 
-En el momento en que vi cercana la línea de meta me puse en contacto con mi amiga Natalia del departamento de People de mi empresa para intentar planificar mi vuelta, tanto a nivel personal, como la empresa a nivel de personal y/o estratégico.
+En el momento en que vi cercana la línea de meta me puse en contacto la empresa para intentar planificar mi vuelta, tanto a nivel personal, como la empresa a nivel de personal y/o estratégico.
 
 No voy a negar que estaba **muy nervioso** las semanas antes de reincorporarme, nunca estás seguro de cómo va a reaccionar tu cuerpo ante una situación de *"peligro"* (y digo peligro porque la ansiedad es una reacción equivocada del cuerpo ante un peligro inexistente), hasta que te expones a él.
 
