@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El momento de volver
-image: https://alejandroperezlopez.com/assets/img/posts/2024-09-05-el-momento-de-volver/2024-09-05-el-momento-de-volver-header.jpg
+image: https://alejandroperezlopez.com/assets/img/posts/2024-09-05-el-momento-de-volver/el-momento-de-volver-header.jpg
 description: Cómo sabes que ha llegado el momento de volver y enfrentarte a tu burnout cara a cara
 category: personal
 tags: ['2024', salud]
