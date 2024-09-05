@@ -7,7 +7,7 @@ category: personal
 tags: ['2024', salud]
 ---
 
-Si has llegado hasta aquí y no sabes de qué va esto, pásate primero por [aquí](2023-08-16-el-momento-de-parar.md){:target="_blank"}, para tener primero una visión de qué me llevó a tener que parar (un **burnout** como la copa de un pino) y qué he hecho para conseguir volver más reforzado.
+Si has llegado hasta aquí y no sabes de qué va esto, pásate primero por [aquí]({{ site.baseurl }}{% post_url 2023-08-16-el-momento-de-parar %}){:target="_blank"}, para tener primero una visión de qué me llevó a tener que parar (un **burnout** como la copa de un pino) y qué he hecho para conseguir volver más reforzado.
 
 Hace ya un tiempo que he vuelto a las trincheras, y creo que es justo que igual que conté por qué había tenido que parar, cuente un poco cómo ha sido todo el proceso para mí.
 
@@ -17,7 +17,7 @@ Por ello, en este post intento explicar qué he hecho durante este tiempo, qué 
 
 ## Qué pasa si parar te hace sentir todavía peor
 
-No nos engañemos, cuando escribí [mi anterior post](2023-08-16-el-momento-de-parar.md){:target="_blank"} todavía llevaba muy poco tiempo inactivo, lo gracioso llegaría después, creédme.
+No nos engañemos, cuando escribí [mi anterior post]({{ site.baseurl }}{% post_url 2023-08-16-el-momento-de-parar %}){:target="_blank"} todavía llevaba muy poco tiempo inactivo, lo gracioso llegaría después, creédme.
 
 En las películas nos suelen mostrar a los *adictos* con sudores, fiebre, deseando volver a *consumir* aquello que les causa la adicción... Pues, os puedo asegurar que cuando eres "adicto" al trabajo no tienes sudores ni fiebre pero sí un sentimiendo inmenso de culpabilidad, de indefensión y de nerviosismo por no poder **seguir remando**. Se te pasan por la cabeza un montón de cosas:
 
